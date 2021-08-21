@@ -5,6 +5,7 @@ Using Termux
 Command :
 $pkg update && pkg upgrade
 $pkg install nano
+$pkg install curl
 $pkg install figlet
 $pkg install toilet
 $pkg install fish
