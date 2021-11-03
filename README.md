@@ -12,6 +12,6 @@ Command :
 -$pkg install nano
 -$pkg install git
 -$gem install lolcat
--$git clone https://github.com/AdamXEncem/ToolsWebdav
--$cd ToolsWebdav
+-$git clone https://github.com/AdamXEncem/ToolsWebdav-V1
+-$cd ToolsWebdav-V1
 -$fish webdav.sh
