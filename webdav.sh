@@ -1,12 +1,12 @@
 #!/usr/bin/fish
 # Jangan recode bro ntar error :v
-# Tools By SecrxtH4xor
+# Tools By AdamX
 
 clear
-toilet -f future' WEBDAV' | lolcat
+toilet -f future' TOOLSWEBDAV-V1' | lolcat
 echo
-echo 'Author : ./SecrxtH4xor'| lolcat
-echo 'Team : PsychoSec Crew' | lolcat
+echo 'Creator : AdamX'| lolcat
+echo 'Team : PsychoSecurityExploit' | lolcat
 echo
 echo "
 Script Ini Berfungsi Untuk Mendeface Website Yang Vuln Terhadap Bug Webdav
